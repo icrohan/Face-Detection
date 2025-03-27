@@ -1,7 +1,7 @@
 # Face-Detection
-Face Detection-AI
+Face Detection
 
-Face Detection-AI is an OpenCV-based project that allows you to detect faces in real time using a webcam or image input. This project harnesses the power of computer vision to identify human faces and highlight them dynamically.
+Face Detection is an OpenCV-based project that allows you to detect faces in real time using a webcam or image input. This project harnesses the power of computer vision to identify human faces and highlight them dynamically.
 
 Features
 
@@ -27,8 +27,8 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/icrohan/Face-Detection-AI.git
-cd Face-Detection-AI
+git clone https://github.com/icrohan/Face-Detection.git
+cd Face-Detection
 
 Install dependencies:
 
@@ -38,7 +38,7 @@ Usage
 
 Run the script:
 
-python face_detection.py
+python facedetection.py
 
 Watch as the AI scans for faces like a digital detective. 🕵️‍♂️
 
