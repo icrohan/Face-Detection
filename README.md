@@ -54,4 +54,5 @@ How It Works
 
 🔲 A bounding box is drawn around detected faces in real-time.
 
-![Uploading Screenshot 2025-03-27 152157.png…]()
+![Screenshot 2025-03-27 152157](https://github.com/user-attachments/assets/4150c273-1df7-4819-bee8-87b7daee5319)
+
